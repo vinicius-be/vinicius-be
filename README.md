@@ -1,4 +1,7 @@
+## Olá, sejam Bem-vindos
 
- Olá, me chamo Vinicius 👋🏻
- Estou estudando Desenvolvimento Web Full-Stack na @tryber
- Disposto a sempre aprender mais
+Me chamo Vinicius Barbosa
+
+Estou estudando Desenvolvimento Web Full-Stack na @tryber
+
+Disposto a sempre aprender mais
